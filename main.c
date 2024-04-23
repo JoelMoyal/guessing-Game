@@ -6,7 +6,7 @@ int main () {
 int SecretNumber = 12;
 int guess;
 int guessCount = 0;
-int guessLimit = 3;
+int guessLimit = 2;
 int outOfGuesses = 0; 
 
 printf ("Guess a number between 0 and 15. \nwith a limit of 3 tries! ");
